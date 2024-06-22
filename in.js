@@ -1,2 +1,3 @@
-console.log(bharth);
+// the hello world program
+alert("Hello, World!");
 
